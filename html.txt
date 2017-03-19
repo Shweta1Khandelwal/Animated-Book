@@ -1,0 +1,39 @@
+<html>
+<head>
+</head>
+<body>
+<ul class="align">
+<li>
+<figure class="book">
+<ul class='hardcover_front'>
+<li>
+<h1>JAiPUR</h1>
+</li>
+<li></li>
+</ul>
+<ul class='page'>
+<li></li>
+<li>
+<lii><a class="btn" href="jaipur.html"><h2>ABOUT</h2></a></lii><br>
+<lii><a class="btn" href="stayjpr.html"><h2>STAY</h2></a></lii><br>
+<lii><a class="btn" href="visitjpr.html"><h2>VISIT</h2></a></lii><br>
+<lii><a class="btn" href="moviesjpr.html"><h2>CINEMA</h2></a></lii>
+</li>
+<li></li>
+<li></li>
+<li></li>
+</ul>
+<ul class='book_spine'>
+<li></li>
+<li></li>
+</ul>
+<ul class='hardcover_back'>
+<li></li>
+<li></li>
+</ul>
+</figure>
+</li>
+</ul>
+</body>
+</html>
+	
